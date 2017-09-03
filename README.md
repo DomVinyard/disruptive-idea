@@ -1,12 +1,11 @@
 
-# 💡
+# 💡 disruptive idea
 
-## type an idea and press enter
-## click to edit or delete
-## drag idea to re-order
+### type an idea and press enter
+### click to edit or delete
+### drag idea to re-order
 
-
-#*
+[GET STARTED](https://disruptive-idea.herokuapp.com/)
 
 This is an intepretation of the supplied spec. It differs in a couple of subtle ways. The 'blank idea box' is always visible and focused because when an idea hits, the user wants to get it down straight away, no superfluous clicking, no messing, no risk of forgetting. There is no title field because 140 characters is too short-form for a title to make sense.
 
